@@ -23,4 +23,6 @@ test("myFirstTest", async () => {
   await page.press(selectors["2_what_needs_to_b_input"], "Enter");
   await page.click(selectors["3_input"]);
   await page.click(selectors["4_button"]);
+
+  throw new Error("demogorgon!");
 });

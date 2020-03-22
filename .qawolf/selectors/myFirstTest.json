@@ -1,0 +1,7 @@
+{
+ "0_what_needs_to_b_input": "html=<div data-reactid=\".0\" qaw_innertext=\"todos\"><header class=\"header\" data-reactid=\".0.0\" qaw_innertext=\"todos\"><input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\" /></header></div>",
+ "1_what_needs_to_b_input": "html=<div data-reactid=\".0\" qaw_innertext=\"todos\"><header class=\"header\" data-reactid=\".0.0\" qaw_innertext=\"todos\"><input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\" /></header></div>",
+ "2_what_needs_to_b_input": "html=<div data-reactid=\".0\" qaw_innertext=\"todos\"><header class=\"header\" data-reactid=\".0.0\" qaw_innertext=\"todos\"><input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\" /></header></div>",
+ "3_input": "html=<li class=\"\" data-reactid=\".0.1.2.$a9cfaa5b-a027-4eb8-9b30-48a222f2a706\" qaw_innertext=\"create test!\"><div class=\"view\" data-reactid=\".0.1.2.$a9cfaa5b-a027-4eb8-9b30-48a222f2a706.0\" qaw_innertext=\"create test!\"><input class=\"toggle\" type=\"checkbox\" data-reactid=\".0.1.2.$a9cfaa5b-a027-4eb8-9b30-48a222f2a706.0.0\" /></div></li>",
+ "4_button": "html=<div data-reactid=\".0\" qaw_innertext=\"todos create test! 0 items left All Active Completed Clear completed\"><footer class=\"footer\" data-reactid=\".0.2\" qaw_innertext=\"0 items left All Active Completed Clear completed\"><button class=\"clear-completed\" data-reactid=\".0.2.2\" qaw_innertext=\"Clear completed\"></button></footer></div>"
+}
